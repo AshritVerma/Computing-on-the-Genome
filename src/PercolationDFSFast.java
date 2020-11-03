@@ -11,15 +11,19 @@ public class PercolationDFSFast extends PercolationDFS {
         }
         if(inBounds(row-1,col) && isFull(row-1,col)){
             dfs(row,col);
+            return;
         }
         if(inBounds(row+1,col) && isFull(row+1,col)){
             dfs(row,col);
+            return;
         }
         if(inBounds(row,col-1) && isFull(row,col-1)){
             dfs(row,col);
+            return;
         }
         if(inBounds(row,col+1) && isFull(row,col+1)){
             dfs(row,col);
+            return;
         }
     }
 }

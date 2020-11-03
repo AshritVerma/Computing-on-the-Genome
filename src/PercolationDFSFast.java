@@ -22,17 +22,3 @@ public class PercolationDFSFast extends PercolationDFS {
     }
 }
 
-/*
-	/**
-	 * Determine if (row,col) is valid for given grid
-	 * @param row specifies row
-	 * @param col specifies column
-	 * @return true if (row,col) on grid, false otherwise
-
-protected boolean inBounds(int row, int col) {
-    if (row < 0 || row >= myGrid.length) return false;
-    if (col < 0 || col >= myGrid[0].length) return false;
-    return true;
-}
- */
-

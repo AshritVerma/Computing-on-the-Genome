@@ -20,29 +20,30 @@ public class PercolationUF implements IPercolate {
     public void open(int row, int col) {
         if (! inBounds(row,col))
             throw new IndexOutOfBoundsException(String.format("(%d,%d) not in bounds", row,col));
-        if(myGrid[row][col] != true){
+        if(myGrid[row][col] != true) {
             myGrid[row][col] = true;
 
-            int num = row*myGrid.length+col;
-            int neighbor1 = row*myGrid.length+col+1;
-            int neighbor2 = row*myGrid.length+col-1;
-            int neighbor3 = (row+1)*myGrid.length+col;
-            int neighbor4 = (row-1)*myGrid.length+col;
+            int num = row * myGrid.length + col;
+            int neighbor1 = row * myGrid.length + col + 1;
+            int neighbor2 = row * myGrid.length + col - 1;
+            int neighbor3 = (row + 1) * myGrid.length + col;
+            int neighbor4 = (row - 1) * myGrid.length + col;
 
-            if(row == 0)
-                myFinder.union(num,VTOP);
-            if(row == myGrid.length-1)
-                myFinder.union(num,VBOTTOM);
-            if(inBounds(row,col-1) && isOpen(row,col-1))
-                myFinder.union(num,neighbor2);
-            if(inBounds(row,col+1) && isOpen(row, col+1))
-                myFinder.union(num,neighbor1);
-            if(inBounds(row+1,col) && isOpen(row+1,col))
-                myFinder.union(num,neighbor3);
-            if(inBounds(row-1,col) && isOpen(row-1,col))
-                myFinder.union(num,neighbor4);
+            if (row == 0)
+                myFinder.union(num, VTOP);
+            if (row == myGrid.length - 1)
+                myFinder.union(num, VBOTTOM);
+            if (inBounds(row, col - 1) && isOpen(row, col - 1))
+                myFinder.union(num, neighbor2);
+            if (inBounds(row, col + 1) && isOpen(row, col + 1))
+                myFinder.union(num, neighbor1);
+            if (inBounds(row + 1, col) && isOpen(row + 1, col))
+                myFinder.union(num, neighbor3);
+            if (inBounds(row - 1, col) && isOpen(row - 1, col))
+                myFinder.union(num, neighbor4);
+
+            myOpenCount ++;
         }
-        myOpenCount ++;
     }
 
     @Override

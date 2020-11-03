@@ -8,30 +8,35 @@ public class PercolationBFS extends PercolationDFSFast{
 
     @Override
     protected void dfs(int row, int col) {
+        if(!isOpen(row,col) || isFull(row,col))
+            return;
+
         Queue<int[]> q = new LinkedList<>();
         myGrid[row][col] = FULL;
         q.add(new int[] {row,col});
 
-        while(q.size() != 0){
-            int[] p = q.remove();
-            row = p[0];
-            col = p[1];
+        if(inBounds(row,col)){
+            while(q.size() != 0){
+                int[] p = q.remove();
+                row = p[0];
+                col = p[1];
 
-            if(inBounds(row-1,col) && isOpen(row-1,col) && myGrid[row-1][col] != FULL){
-                myGrid[row-1][col] = FULL;
-                q.add(new int[]{row-1,col});
-            }
-            if(inBounds(row+1,col) && isOpen(row+1,col) && myGrid[row+1][col] != FULL){
-                myGrid[row+1][col] = FULL;
-                q.add(new int[]{row+1,col});
-            }
-            if(inBounds(row,col-1) && isOpen(row,col-1)  && myGrid[row][col-1] != FULL){
-                myGrid[row][col-1] = FULL;
-                q.add(new int[]{row,col-1});
-            }
-            if(inBounds(row,col+1) && isOpen(row,col+1) && myGrid[row][col+1] != FULL){
-                myGrid[row][col+1] = FULL;
-                q.add(new int[]{row,col+1});
+                if(inBounds(row-1,col) && isOpen(row-1,col) && myGrid[row-1][col] != FULL){
+                    myGrid[row-1][col] = FULL;
+                    q.add(new int[]{row-1,col});
+                }
+                if(inBounds(row+1,col) && isOpen(row+1,col) && myGrid[row+1][col] != FULL){
+                    myGrid[row+1][col] = FULL;
+                    q.add(new int[]{row+1,col});
+                }
+                if(inBounds(row,col-1) && isOpen(row,col-1)  && myGrid[row][col-1] != FULL){
+                    myGrid[row][col-1] = FULL;
+                    q.add(new int[]{row,col-1});
+                }
+                if(inBounds(row,col+1) && isOpen(row,col+1) && myGrid[row][col+1] != FULL){
+                    myGrid[row][col+1] = FULL;
+                    q.add(new int[]{row,col+1});
+                }
             }
         }
     }

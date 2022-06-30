@@ -1,0 +1,120 @@
+LOCUS       XM_017650263            2972 bp    mRNA    linear   MAM 29-JUL-2016
+DEFINITION  PREDICTED: Manis javanica angiotensin I converting enzyme 2 (ACE2),
+            transcript variant X2, mRNA.
+ACCESSION   XM_017650263
+VERSION     XM_017650263.1
+DBLINK      BioProject: PRJNA335369
+KEYWORDS    RefSeq.
+SOURCE      Manis javanica (Malayan pangolin)
+  ORGANISM  Manis javanica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Pholidota; Manidae; Manis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_016527422.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Manis javanica Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2972
+                     /organism="Manis javanica"
+                     /mol_type="mRNA"
+                     /isolate="MP_PG03-UM"
+                     /db_xref="taxon:9974"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="liver"
+     gene            1..2972
+                     /gene="ACE2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 63 Proteins, and 100% coverage of
+                     the annotated genomic feature by RNAseq alignments,
+                     including 4 samples with support for all annotated
+                     introns"
+                     /db_xref="GeneID:108390919"
+     CDS             199..2616
+                     /gene="ACE2"
+                     /codon_start=1
+                     /product="angiotensin-converting enzyme 2"
+                     /protein_id="XP_017505752.1"
+                     /db_xref="GeneID:108390919"
+                     /translation="MSGSSWLLLSLVAVTAAQSTSDEEAKTFLEKFNSEAEELSYQSS
+                     LASWNYNTNITDENVQKMNVAGAKWSTFYEEQSKIAKNYQLQNIQNDTIKRQLQALQL
+                     SGSSALSADKNQRLNTILNTMSTIYSTGKVCNPGNPQECSLLEPGLDNIMESSKDYNE
+                     RLWAWEGWRSEVGKQLRPLYEEYVVLKNEMARANHYEDYGDYWRGDYEAEGANGYNYS
+                     RDHLIEDVEHIFTQIKPLYEHLHAYVRAKLMDNYPSHISPTGCLPAHLLGDMWGRFWT
+                     NLYPLTVPFRQKPNIDVTDAMVNQTWDANRIFKEAEKFFVSVGLPKMTQTFWENSMLT
+                     EPGDGRKVVCHPTAWDLGKHDFRIKMCTKVTMDDFLTAHHEMGHIQYDMAYAMQPYLL
+                     RNGANEGFHEAVGEIMSLSAATPKHLKNIGLLPPDFYEDNETEINFLLKQALTIVGTL
+                     PFTYMLEKWRWMVFSGQIPKEQWMKKWWEMKREIVGVVEPVPHDETYCDPASLFHVAN
+                     DYSFIRYYTRTIYQFQFQEALCQTAKHEGPLHKCDISNSAEAGQKLLQMLSLGKSKPW
+                     TLALERVVGTKNMDVRPLLNYFEPLLTWLKEQNKNSFVGWNTDWSPYAAQSIKVRISL
+                     KSALGEKAYEWNDSEMYLFRSSVAYAMREYFSKVKKQTIPFEDECVRVSDLKPRVSFI
+                     FFVTLPKNVSAVIPRAEVEEAIRISRSRINDAFRLDDNSLEFLGIQPTLQPPYQPPVT
+                     IWLIVFGVVMGVVVVGIVVLIFTGIRDRKKKDQARSEQNPYASVDLSKGENNPGFQNV
+                     DDVQTSF"
+ORIGIN      
+        1 ccaggatgaa ctttatattg gttcagcaga ttgtttactg ttttttctcc ttctccttct
+       61 tcttcttttt ttttttttcc gtcttccctg ctcagtgccc agcccaagtt caaaggctga
+      121 tgagagagaa aaactcatga agaggtttta ctctacggaa agttgttcag tggatgggat
+      181 cttggcgcac agggaaagat gtcaggctct tcctggctcc tcctcagcct ggttgctgta
+      241 actgctgctc agtccaccag tgacgaagag gcaaagacat ttttggagaa gtttaactct
+      301 gaagctgaag agctgtctta tcaaagttca cttgcttctt ggaattataa caccaatatt
+      361 accgacgaga atgtccaaaa gatgaatgtt gctggggcca aatggtccac cttttatgaa
+      421 gaacagtcca agattgccaa aaattatcaa ctacaaaata ttcagaatga cacaatcaag
+      481 cgtcaattgc aggcccttca gctaagtggg tcatcagcac tctcagcaga caagaaccaa
+      541 cgattgaaca caattctaaa tacaatgagc accatctata gcaccgggaa agtctgtaac
+      601 ccaggtaatc cacaggagtg ctcattactt gaaccaggtc tggataacat aatggaaagt
+      661 agcaaagact acaatgagag gctctgggct tgggaaggct ggaggtctga ggttggcaag
+      721 cagctgaggc cattatatga agagtatgtg gtcctgaaaa atgagatggc gagagcaaac
+      781 cattatgagg attacgggga ttattggaga ggagattacg aagcggaggg ggccaatggc
+      841 tataactata gccgcgacca cctgattgaa gatgtggaac atatctttac acagattaaa
+      901 ccattatacg aacatcttca tgcttatgtg agggcaaagc tgatggacaa ctacccttcc
+      961 catatcagcc caactggatg ccttcctgcc catttgcttg gcgatatgtg gggtagattt
+     1021 tggacaaatc tgtacccttt gacggttccc tttcgacaga aaccaaacat agatgttact
+     1081 gatgcaatgg tgaaccagac ctgggatgca aacaggatat tcaaggaggc tgagaagttc
+     1141 tttgtatctg ttggccttcc taaaatgact cagacattct gggaaaactc catgctaact
+     1201 gagccaggag atggccggaa agtggtctgc cacccgacag cgtgggacct ggggaagcac
+     1261 gacttcagaa tcaagatgtg cacaaaggtg acaatggatg acttcctgac agcccatcat
+     1321 gagatgggac acatccagta tgacatggcc tatgccatgc agccctacct gctaagaaac
+     1381 ggagctaacg aagggttcca tgaggctgtt ggggagatca tgtcactttc cgcagctaca
+     1441 cccaagcatt tgaaaaacat tggtcttctg cctcctgact tttatgaaga caatgaaaca
+     1501 gaaataaatt tcctactcaa acaagcactc acaattgttg gaactctacc atttacttac
+     1561 atgttagaaa agtggaggtg gatggtcttt agtggccaaa ttcccaaaga gcagtggatg
+     1621 aaaaagtggt gggagatgaa gcgagagata gtcggggtgg tggaacctgt gccccatgat
+     1681 gagacatact gtgatcctgc gtctctgttc cacgttgcta atgattactc attcatccga
+     1741 tattacacaa ggaccattta tcagttccag tttcaagaag ccctttgtca gactgctaaa
+     1801 catgaaggtc ctctgcacaa atgcgatatc tcaaattccg ctgaagctgg gcagaagctg
+     1861 cttcaaatgc tgagccttgg aaaatcaaaa ccctggacct tagcattgga acgtgttgtg
+     1921 ggaaccaaga acatggatgt cagaccactg ctcaactact ttgagccctt gcttacctgg
+     1981 ctgaaagagc agaacaagaa ttcctttgtg ggatggaaca ccgactggag tccatatgcc
+     2041 gcccaaagca tcaaagtgag gataagcctg aagtcagctc tcggggaaaa agcgtatgaa
+     2101 tggaacgaca gtgaaatgta cttgttccgg tcatctgttg catatgccat gagagagtat
+     2161 ttctcaaaag tcaaaaaaca gacgattcct tttgaggatg agtgcgtgag ggtgagtgac
+     2221 ctgaaaccca gggtttcctt catcttcttc gtcactttac ctaaaaatgt gtctgccgtc
+     2281 attcccagag ctgaagtcga agaggccatc aggatatccc ggagccgtat caatgatgct
+     2341 ttccgcctgg atgacaacag cctggagttt ctgggtatcc agccgacact gcagcccccg
+     2401 taccaaccac ctgtcaccat atggctgatt gtttttgggg ttgtgatggg agtggtagtg
+     2461 gttggtattg tcgtgctcat cttcaccggg atcagagatc ggaagaagaa agatcaagca
+     2521 agaagtgaac agaatcctta tgcctctgta gacttgagta aaggagaaaa taatccagga
+     2581 ttccaaaatg ttgatgatgt tcagacttcg ttttagaaaa atctatttga tttcctcttg
+     2641 aggtgatttt atgggcaaca ggtctaaaga ggggagaaga atccaaagag ctgttagcag
+     2701 actttcacct tctcgtttcc aagctgcttg atcatcatct ccatgacaac gtaaaactag
+     2761 cgccaggggc gtccgtgagc acctccccca ccacccatag caagcctgat agaaactcat
+     2821 ttccattgtt ctctacccct ggaatgaata gaaagcccaa ctgaatgtca ccctctcaaa
+     2881 tgggcacctg atctcttcaa ccttttgtat tcacctgcag tgtgagtagt gctgggcaca
+     2941 gagcagacac taataaatat gtactagatt ta
+//
+

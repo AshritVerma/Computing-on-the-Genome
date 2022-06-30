@@ -1,0 +1,263 @@
+LOCUS       NM_001012006            2418 bp    mRNA    linear   ROD 12-OCT-2020
+DEFINITION  Rattus norvegicus angiotensin I converting enzyme 2 (Ace2), mRNA.
+ACCESSION   NM_001012006 XM_228924
+VERSION     NM_001012006.1
+KEYWORDS    RefSeq.
+SOURCE      Rattus norvegicus (Norway rat)
+  ORGANISM  Rattus norvegicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Rattus.
+REFERENCE   1  (bases 1 to 2418)
+  AUTHORS   Hassan AO, Case JB, Winkler ES, Thackray LB, Kafai NM, Bailey AL,
+            McCune BT, Fox JM, Chen RE, Alsoussi WB, Turner JS, Schmitz AJ, Lei
+            T, Shrihari S, Keeler SP, Fremont DH, Greco S, McCray PB Jr,
+            Perlman S, Holtzman MJ, Ellebedy AH and Diamond MS.
+  TITLE     A SARS-CoV-2 Infection Model in Mice Demonstrates Protection by
+            Neutralizing Antibodies
+  JOURNAL   Cell 182 (3), 744-753 (2020)
+   PUBMED   32553273
+REFERENCE   2  (bases 1 to 2418)
+  AUTHORS   Choi JY, Lee HK, Park JH, Cho SJ, Kwon M, Jo C and Koh YH.
+  TITLE     Altered COVID-19 receptor ACE2 expression in a higher risk group
+            for cerebrovascular disease and ischemic stroke
+  JOURNAL   Biochem Biophys Res Commun 528 (3), 413-419 (2020)
+   PUBMED   32513532
+  REMARK    GeneRIF: ACE2 expression is increased in ischemic brains and
+            vessels exposed to diabetes or smoking, makes them vulnerable to
+            COVID-19 infection
+REFERENCE   3  (bases 1 to 2418)
+  AUTHORS   Bao L, Deng W, Huang B, Gao H, Liu J, Ren L, Wei Q, Yu P, Xu Y, Qi
+            F, Qu Y, Li F, Lv Q, Wang W, Xue J, Gong S, Liu M, Wang G, Wang S,
+            Song Z, Zhao L, Liu P, Zhao L, Ye F, Wang H, Zhou W, Zhu N, Zhen W,
+            Yu H, Zhang X, Guo L, Chen L, Wang C, Wang Y, Wang X, Xiao Y, Sun
+            Q, Liu H, Zhu F, Ma C, Yan L, Yang M, Han J, Xu W, Tan W, Peng X,
+            Jin Q, Wu G and Qin C.
+  TITLE     The pathogenicity of SARS-CoV-2 in hACE2 transgenic mice
+  JOURNAL   Nature 583 (7818), 830-833 (2020)
+   PUBMED   32380511
+REFERENCE   4  (bases 1 to 2418)
+  AUTHORS   Delanghe JR, Speeckaert MM and De Buyzere ML.
+  TITLE     The host's angiotensin-converting enzyme polymorphism may explain
+            epidemiological findings in COVID-19 infections
+  JOURNAL   Clin Chim Acta 505, 192-193 (2020)
+   PUBMED   32220422
+REFERENCE   5  (bases 1 to 2418)
+  AUTHORS   Zhang BN, Zhang X, Xu H, Gao XM, Zhang GZ, Zhang H and Yang F.
+  TITLE     Dynamic Variation of RAS on Silicotic Fibrosis Pathogenesis in Rats
+  JOURNAL   Curr Med Sci 39 (4), 551-559 (2019)
+   PUBMED   31346990
+  REMARK    GeneRIF: reatment with Cap decreased the expression levels of ACE,
+            Ang II and AT1, and increased the expression levels of ACE2, Ang
+            (1-7) and Mas. These findings suggested that an imbalance between
+            ACE-Ang II-AT1 axis and ACE2-Ang (1-7)-Mas axis may participate in
+            the development of silicosis.
+REFERENCE   6  (bases 1 to 2418)
+  AUTHORS   Tikellis C, Johnston CI, Forbes JM, Burns WC, Burrell LM, Risvanis
+            J and Cooper ME.
+  TITLE     Characterization of renal angiotensin-converting enzyme 2 in
+            diabetic nephropathy
+  JOURNAL   Hypertension 41 (3), 392-397 (2003)
+   PUBMED   12623933
+REFERENCE   7  (bases 1 to 2418)
+  AUTHORS   Crackower MA, Sarao R, Oudit GY, Yagil C, Kozieradzki I, Scanga SE,
+            Oliveira-dos-Santos AJ, da Costa J, Zhang L, Pei Y, Scholey J,
+            Ferrario CM, Manoukian AS, Chappell MC, Backx PH, Yagil Y and
+            Penninger JM.
+  TITLE     Angiotensin-converting enzyme 2 is an essential regulator of heart
+            function
+  JOURNAL   Nature 417 (6891), 822-828 (2002)
+   PUBMED   12075344
+  REMARK    GeneRIF: Angiotensin-converting enzyme 2 (Ace2)is an essential
+            regulator of heart function.
+REFERENCE   8  (bases 1 to 2418)
+  AUTHORS   Vickers C, Hales P, Kaushik V, Dick L, Gavin J, Tang J, Godbout K,
+            Parsons T, Baronas E, Hsieh F, Acton S, Patane M, Nichols A and
+            Tummino P.
+  TITLE     Hydrolysis of biological peptides by human angiotensin-converting
+            enzyme-related carboxypeptidase
+  JOURNAL   J Biol Chem 277 (17), 14838-14843 (2002)
+   PUBMED   11815627
+REFERENCE   9  (bases 1 to 2418)
+  AUTHORS   Tipnis SR, Hooper NM, Hyde R, Karran E, Christie G and Turner AJ.
+  TITLE     A human homolog of angiotensin-converting enzyme. Cloning and
+            functional expression as a captopril-insensitive carboxypeptidase
+  JOURNAL   J Biol Chem 275 (43), 33238-33243 (2000)
+   PUBMED   10924499
+REFERENCE   10 (bases 1 to 2418)
+  AUTHORS   Donoghue M, Hsieh F, Baronas E, Godbout K, Gosselin M, Stagliano N,
+            Donovan M, Woolf B, Robison K, Jeyaseelan R, Breitbart RE and Acton
+            S.
+  TITLE     A novel angiotensin-converting enzyme-related carboxypeptidase
+            (ACE2) converts angiotensin I to angiotensin 1-9
+  JOURNAL   Circ Res 87 (5), E1-E9 (2000)
+   PUBMED   10969042
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AY881244.1.
+            On Feb 11, 2005 this sequence version replaced XM_228924.2.
+            
+            Summary: enzyme peptidyl-dipeptidase; mouse homolog has a role in
+            regulation of cardiac contractility and regulating Angiotensin 1
+            and 2 levels [RGD, Feb 2006].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AY881244.1, GQ262788.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2689597, SAMEA2689599
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2418
+                     /organism="Rattus norvegicus"
+                     /mol_type="mRNA"
+                     /strain="Sprague-Dawley"
+                     /db_xref="taxon:10116"
+                     /chromosome="X"
+                     /map="Xq14"
+     gene            1..2418
+                     /gene="Ace2"
+                     /note="angiotensin I converting enzyme 2"
+                     /db_xref="GeneID:302668"
+                     /db_xref="RGD:728890"
+     CDS             1..2418
+                     /gene="Ace2"
+                     /EC_number="3.4.17.23"
+                     /note="anigotensin-converting enzyme-related
+                     carboxypeptidase; renal angiotensin-converting enzyme 2;
+                     angiotensin I converting enzyme (peptidyl-dipeptidase A)
+                     2; ACE-related carboxypeptidase"
+                     /codon_start=1
+                     /product="angiotensin-converting enzyme 2 precursor"
+                     /protein_id="NP_001012006.1"
+                     /db_xref="GeneID:302668"
+                     /db_xref="RGD:728890"
+                     /translation="MSSSCWLLLSLVAVATAQSLIEEKAESFLNKFNQEAEDLSYQSS
+                     LASWNYNTNITEENAQKMNEAAAKWSAFYEEQSKIAQNFSLQEIQNATIKRQLKALQQ
+                     SGSSALSPDKNKQLNTILNTMSTIYSTGKVCNSMNPQECFLLEPGLDEIMATSTDYNR
+                     RLWAWEGWRAEVGKQLRPLYEEYVVLKNEMARANNYEDYGDYWRGDYEAEGVEGYNYN
+                     RNQLIEDVENTFKEIKPLYEQLHAYVRTKLMEVYPSYISPTGCLPAHLLGDMWGRFWT
+                     NLYPLTTPFLQKPNIDVTDAMVNQSWDAERIFKEAEKFFVSVGLPQMTPGFWTNSMLT
+                     EPGDDRKVVCHPTAWDLGHGDFRIKMCTKVTMDNFLTAHHEMGHIQYDMAYAKQPFLL
+                     RNGANEGFHEAVGEIMSLSAATPKHLKSIGLLPSNFQEDNETEINFLLKQALTIVGTL
+                     PFTYMLEKWRWMVFQDKIPREQWTKKWWEMKREIVGVVEPLPHDETYCDPASLFHVSN
+                     DYSFIRYYTRTIYQFQFQEALCQAAKHDGPLHKCDISNSTEAGQKLLNMLSLGNSGPW
+                     TLALENVVGSRNMDVKPLLNYFQPLFVWLKEQNRNSTVGWSTDWSPYADQSIKVRISL
+                     KSALGKNAYEWTDNEMYLFRSSVAYAMREYFSREKNQTVPFGEADVWVSDLKPRVSFN
+                     FFVTSPKNVSDIIPRSEVEEAIRMSRGRINDIFGLNDNSLEFLGIYPTLKPPYEPPVT
+                     IWLIIFGVVMGTVVVGIVILIVTGIKGRKKKNETKREENPYDSMDIGKGESNAGFQNS
+                     DDAQTSF"
+     sig_peptide     1..51
+                     /gene="Ace2"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     misc_feature    157..159
+                     /gene="Ace2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q5EGZ1.1); glycosylation site"
+     misc_feature    244..246
+                     /gene="Ace2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q5EGZ1.1); glycosylation site"
+     misc_feature    268..270
+                     /gene="Ace2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q5EGZ1.1); glycosylation site"
+     misc_feature    895..897
+                     /gene="Ace2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q5EGZ1.1); glycosylation site"
+     misc_feature    1033..1038
+                     /gene="Ace2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5EGZ1.1);
+                     Region: Substrate binding.
+                     /evidence=ECO:0000250|UniProtKB:Q9BYF1"
+     misc_feature    1294..1296
+                     /gene="Ace2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q5EGZ1.1); glycosylation site"
+     misc_feature    1636..1638
+                     /gene="Ace2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q5EGZ1.1); glycosylation site"
+     misc_feature    1801..1803
+                     /gene="Ace2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q5EGZ1.1); glycosylation site"
+     misc_feature    1954..1977
+                     /gene="Ace2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5EGZ1.1);
+                     Region: Essential for cleavage by ADAM17.
+                     /evidence=ECO:0000250"
+     misc_feature    1978..1980
+                     /gene="Ace2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q5EGZ1.1); glycosylation site"
+     misc_feature    2068..2070
+                     /gene="Ace2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q5EGZ1.1); glycosylation site"
+     misc_feature    2089..2148
+                     /gene="Ace2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5EGZ1.1);
+                     Region: Essential for cleavage by TMPRSS11D and TMPRSS2.
+                     /evidence=ECO:0000250"
+     misc_feature    2221..2283
+                     /gene="Ace2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5EGZ1.1);
+                     transmembrane region"
+ORIGIN      
+        1 atgtcaagct cctgctggct ccttctcagc cttgttgctg ttgctactgc tcagtccctc
+       61 atcgaggaaa aggccgagag ctttttaaac aagtttaacc aggaagctga agacctgtct
+      121 tatcaaagtt cacttgcttc ttggaattac aacaccaaca ttacggagga gaatgcccaa
+      181 aagatgaacg aggctgcggc caaatggtct gccttttatg aagaacagtc caagatcgcc
+      241 caaaatttct cactacaaga aattcagaat gcgaccatca agcgtcaact gaaggccctt
+      301 cagcagagcg ggtcttcagc gctgtcacca gacaagaaca aacagttgaa cacaattcta
+      361 aacaccatga gcaccattta cagtactgga aaagtttgca actcaatgaa tccacaagaa
+      421 tgttttttac ttgaaccagg attggacgaa ataatggcaa caagcacaga ctacaatcgt
+      481 aggctctggg cttgggaggg ctggagggct gaggtcggca agcagctgag gccgttatat
+      541 gaagagtatg tggtcctgaa aaatgagatg gcaagagcaa acaattatga agactatggg
+      601 gattattggc gaggggatta tgaagcagag ggagtagaag gttacaacta caaccgaaac
+      661 cagttgatcg aagacgtaga aaataccttc aaagagatca aaccgttgta tgagcaactt
+      721 catgcctatg tgagaacgaa gttgatggaa gtgtaccctt cttacatcag ccctactgga
+      781 tgcctccctg ctcatttgct tggtgatatg tggggtaggt tttggacaaa tctgtaccct
+      841 ttgactactc cctttcttca gaaaccaaac atagatgtta ctgatgcaat ggtgaatcag
+      901 agctgggatg cagaaagaat atttaaagag gcagagaagt tcttcgtttc tgttggcctt
+      961 cctcaaatga ctccgggatt ctggacaaac tccatgctga ctgagccagg agatgaccgg
+     1021 aaagttgtct gccaccccac agcttgggat ctgggacatg gagacttcag aatcaagatg
+     1081 tgcacaaagg tcacaatgga caacttcttg acagcccatc atgagatggg acacatccaa
+     1141 tatgacatgg catatgccaa gcaacctttc ctgctaagaa acggagccaa tgaagggttc
+     1201 catgaagccg ttggagaaat catgtcactt tctgcagcta cccccaaaca tttgaaatct
+     1261 attggtcttc tgccatccaa ttttcaagaa gacaatgaaa cagaaataaa cttcctactc
+     1321 aaacaggcat tgacaattgt tggaacgctg ccatttactt acatgttaga gaagtggagg
+     1381 tggatggtct ttcaggataa aattcccaga gaacagtgga ccaaaaagtg gtgggagatg
+     1441 aagcgggaga tcgttggtgt ggtggagcct ctgcctcatg atgaaacata ctgtgaccct
+     1501 gcatctctgt tccatgtctc taatgattac tcattcattc gatattacac aaggaccatt
+     1561 tatcaattcc agtttcaaga agctctttgt caagcagcta aacatgatgg cccactacac
+     1621 aaatgtgaca tctcaaattc cactgaagct gggcagaagt tgctcaatat gctgagtctt
+     1681 ggaaactcag ggccctggac cctagccttg gaaaatgtgg taggatcaag gaatatggat
+     1741 gtaaaaccac tgctcaatta cttccaacca ttgtttgtct ggctgaaaga gcagaacagg
+     1801 aattcgactg tggggtggag cactgactgg agcccatatg ccgaccaaag cattaaagtg
+     1861 aggataagcc taaaatcagc tcttgggaaa aatgcgtatg aatggaccga caacgaaatg
+     1921 tacctattcc gatcatctgt tgcctatgcc atgagagagt atttttcaag ggaaaagaac
+     1981 cagacagttc cttttgggga ggcagacgta tgggtgagtg atttgaaacc aagagtctcc
+     2041 ttcaacttct ttgtcacttc acccaaaaat gtgtctgaca tcattcccag aagtgaagtt
+     2101 gaagaggcca tcaggatgtc tcggggccgt atcaatgata tttttggtct gaatgataac
+     2161 agcctggagt ttctggggat ctacccaaca cttaagccac cttacgagcc tcctgtcacc
+     2221 atatggctga ttatttttgg tgtcgtgatg ggaacggtag tggttggcat tgttatcctg
+     2281 atcgtcactg ggatcaaagg tcgaaagaag aaaaatgaaa caaaaagaga agagaatcct
+     2341 tatgactcca tggacattgg caaaggagaa agtaacgcag gattccaaaa cagtgatgat
+     2401 gctcaaactt cattctaa
+//
+

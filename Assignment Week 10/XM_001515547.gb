@@ -1,0 +1,126 @@
+LOCUS       XM_001515547            3177 bp    mRNA    linear   MAM 29-APR-2019
+DEFINITION  PREDICTED: Ornithorhynchus anatinus angiotensin I converting enzyme
+            2 (ACE2), mRNA.
+ACCESSION   XM_001515547
+VERSION     XM_001515547.4
+DBLINK      BioProject: PRJNA534073
+KEYWORDS    RefSeq.
+SOURCE      Ornithorhynchus anatinus (platypus)
+  ORGANISM  Ornithorhynchus anatinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Monotremata; Ornithorhynchidae; Ornithorhynchus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041742.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Apr 29, 2019 this sequence version replaced XM_001515547.3.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Ornithorhynchus anatinus Annotation
+                                           Release 104
+            Annotation Version          :: 104
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..3177
+                     /organism="Ornithorhynchus anatinus"
+                     /mol_type="mRNA"
+                     /isolate="Pmale09"
+                     /db_xref="taxon:9258"
+                     /chromosome="15"
+                     /sex="male"
+                     /tissue_type="liver; muscle"
+     gene            1..3177
+                     /gene="ACE2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 58 Proteins, and 100% coverage of
+                     the annotated genomic feature by RNAseq alignments,
+                     including 6 samples with support for all annotated
+                     introns"
+                     /db_xref="GeneID:100085223"
+     CDS             114..2534
+                     /gene="ACE2"
+                     /codon_start=1
+                     /product="angiotensin-converting enzyme 2"
+                     /protein_id="XP_001515597.2"
+                     /db_xref="GeneID:100085223"
+                     /translation="MGGSLWLVFSFVAVAAAQKPEEEARQFLTQFNKQAEDLSYQSSL
+                     ASWEYNTNISAENAQKMAEAGAKWSAFYEEAVRNASKFNLSQISDRSLKLQLESFQNR
+                     GSSVLSEEKQKKLSDALNSMSTLYSTGTVCKPGKPDECLLLEPGLDDIMAHSTDYDER
+                     LWAWEGWRAGVGKQMRPFYETYVELKNEVARGNNYQDYGDYWRADYETKEEGYEYSRD
+                     QLIADVERTFKEIKPLYQHLHTYVRSKLVQKYGENRVSPTGCLPAHLLGDMWGRFWTN
+                     LYPITVPYPNQPNIDVTDEMVKQKWTEMRIFKEAEKFFSSVHLPNMTEGFWNNSMLTE
+                     PKDGRKVVCHPTAWDLGKNDFRIKMCTKVSMDDFLTAHHEMGHIQYDMAYASQPYLLR
+                     SGANEGFHEAVGEIMSLSAATPKHLKSLGLLAPDFQELQETEINFLLKQALTIVGTLP
+                     FTYMLEKWRWMVFKEDIPKEQWMKKWWEMKREIVGVVESLPHDETYCDPAALFHVSSD
+                     YSFIRYYTRTIYQFQFQEALCKLAQHKGDLHKCDITNSIQAGEKLLEMLKLGKSRSWT
+                     YALQSVTQTKTMDARPLLKYFEPLTKWLIDKNKNFYVGWNSACLPLTGDLGNENAIKV
+                     RISLKSAFGEDAYEWNENEKYLFQASVAYALRQYYLQDQNEIVNFQTDDVIIYNETAR
+                     ISFYFKVQNRRDSIYVPKDEVENAIRMSRGRINSAFQLDDNTLEFLGIPPTLAPPPVP
+                     PVTIWLILFGVVMGVVVIGIAALIVTGIRDRRRKNEEGDSSAENPYAIGNGSENLGFA
+                     NDESQTSF"
+ORIGIN      
+        1 tcagtgctca gggcccaacc caagttcaaa ggctgcagga agagacaaat ccatgagaag
+       61 ctttgcttaa gagacactca ttcagttgat gggatcttgg agcgggagaa aggatgggag
+      121 gttctctgtg gctcgttttc agcttcgttg ctgtggcggc tgcccagaaa cccgaagagg
+      181 aggcgcgaca atttctgaca cagttcaaca agcaggcaga agacctgtct taccaaagct
+      241 cactggcttc ttgggaatat aataccaaca tctctgctga gaatgcccaa aagatggctg
+      301 aagctggagc taaatggtcc gcattttatg aggaagcagt caggaatgcc agcaaattta
+      361 acctcagtca aatttcagat cgcagcctca aactgcagct ggaatcattc cagaacagag
+      421 gctcctcggt cttgtcagag gagaagcaga agaagttaag cgatgcttta aattcaatga
+      481 gcactctcta cagcaccgga acagtctgta aacctggaaa accagatgaa tgtctgctgc
+      541 ttgaaccagg tctggatgat atcatggccc acagtaccga ttacgacgag aggctctggg
+      601 cctgggaagg ctggagagct ggtgttggaa agcagatgag gccattctac gaaacctatg
+      661 tggaacttaa aaatgaagtc gctagaggaa acaactacca ggactacggg gactattgga
+      721 gagcagatta tgaaactaaa gaggagggat atgaatacag ccgtgaccag cttattgcgg
+      781 atgtagaacg cacctttaaa gagataaaac cactgtacca gcatctccac acctatgtga
+      841 gatccaaatt ggttcaaaag tatggcgaaa atcgcgtcag cccaaccgga tgcctccctg
+      901 ctcacttgct tggtgatatg tggggtagat tttggacaaa tctgtaccct attacagtcc
+      961 cctatccaaa ccagcccaat attgacgtaa ctgatgaaat ggtcaagcag aaatggactg
+     1021 aaatgagaat ttttaaggaa gctgagaagt ttttcagctc tgttcacctc ccaaatatga
+     1081 cagaaggttt ctggaataac tccatgctca cagagcctaa agatggcaga aaagtggttt
+     1141 gccatcccac agcctgggat ctgggaaaga atgatttcag gatcaagatg tgcacgaagg
+     1201 tgtccatgga tgactttttg actgctcacc acgagatggg tcacatccag tatgacatgg
+     1261 cctatgcctc acagccttac ctactgagaa gcggagccaa tgaagggttc catgaagcag
+     1321 tgggggaaat catgtcactg tctgcagcca caccaaagca tttgaaatcc cttggtctct
+     1381 tagcgccaga tttccaggaa ctccaagaaa cggaaattaa cttccttctc aagcaagccc
+     1441 tcaccattgt tggaaccctg cccttcactt acatgctcga gaaatggaga tggatggtct
+     1501 ttaaagagga tatcccgaaa gaacaatgga tgaaaaagtg gtgggagatg aagcgagaga
+     1561 tagttggtgt ggtcgaatcg ttaccacatg atgaaacata ctgtgatcct gcagctctct
+     1621 ttcacgtttc tagtgattac tctttcatca gatactacac aaggaccatt tatcaattcc
+     1681 agttccagga agcgctttgt aaacttgctc aacacaaggg tgatcttcat aaatgtgaca
+     1741 tcaccaattc tatccaagct ggggaaaagt tacttgagat gctgaaactg ggaaagtcaa
+     1801 gatcctggac ctatgcacta cagagtgtga cccaaacaaa gactatggat gcacgaccac
+     1861 tgctcaagta ctttgagcct ttgacaaagt ggctgattga caaaaacaag aatttctacg
+     1921 tgggttggaa cagtgcctgc cttcctctca ccggggacct gggaaatgag aatgccatca
+     1981 aagtgaggat aagcttgaaa tcagcatttg gagaagatgc atacgagtgg aatgaaaatg
+     2041 aaaaatacct gttccaggca tcagtcgcgt acgctttgag gcaatattac ttgcaagacc
+     2101 agaatgagat cgtgaatttc cagaccgatg acgtgatcat atacaatgag accgccagga
+     2161 tttccttcta cttcaaagtt caaaacagaa gagacagcat atatgttccc aaagatgaag
+     2221 tggaaaacgc aatcaggatg tctcggggcc gcatcaacag tgccttccaa ctggacgaca
+     2281 acaccctgga gtttctgggc attcctccta cattagcacc gccacctgtg ccacctgtca
+     2341 ccatctggct aatccttttc ggtgtggtga tgggtgttgt ggtgattgga atcgctgcac
+     2401 taattgtgac tgggataaga gatagaagga ggaaaaacga agaaggagat tcaagtgctg
+     2461 aaaatcccta tgctattgga aatgggtcag aaaatctggg tttcgcaaat gatgaatccc
+     2521 agacatcatt ctagtaaact tttttcagtt ttacttccat atacgtggtt ttgtttcatg
+     2581 tttttcaaca tcattgaatg aagacagtgg aggttaattc agctctctgc aggaaactgt
+     2641 tcctgctcag ccaaaaatca ttacatggaa tgttaatgca tcagtgtgca catctacagg
+     2701 ggtttttatt tattgctatt tccaagcttc attaccccca tgtttccata ctgagaacat
+     2761 tcacattaga gacgaataaa agaagaaatt gcttctttgc aggatgagat gtccagggag
+     2821 atgaagacaa tttgacccgg ctgggtggtt ggattagttg aattggaaag gatatttttc
+     2881 aggaggcaag cactggttgg cgatgaaggg cctctctggg tcctggatct atagcttggt
+     2941 tgccaatgac catatcctcg gcagacatat acagttcaga aagaaatgct gaatccagat
+     3001 cgaaaggact ttccctttaa tctgatccga tgtgtaccga ctggactacg ggaagagaaa
+     3061 aatccaagac caactatcta gtgcacacca ctcagagaga ggtttcctga agttaatttt
+     3121 cctgcaaata atggactttc caatttagtc tataaataaa ggtttcagta accaaaa
+//
+

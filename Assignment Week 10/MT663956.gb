@@ -1,0 +1,91 @@
+LOCUS       MT663956                2415 bp    mRNA    linear   MAM 10-JUL-2020
+DEFINITION  Tadarida brasiliensis angiotensin I converting enzyme 2 mRNA,
+            complete cds.
+ACCESSION   MT663956
+VERSION     MT663956.1
+KEYWORDS    .
+SOURCE      Tadarida brasiliensis (Brazilian free-tailed bat)
+  ORGANISM  Tadarida brasiliensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Chiroptera; Microchiroptera;
+            Molossidae; Tadarida.
+REFERENCE   1  (bases 1 to 2415)
+  AUTHORS   Lin,H.
+  TITLE     Broad and differential animal ACE2 receptor usage by SARS-CoV-2
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2415)
+  AUTHORS   Lin,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JUN-2020) Pathology and Laboratory Medicine, Western
+            University, 1151 Richmond St, london, on N6A 3K7, Canada
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2415
+                     /organism="Tadarida brasiliensis"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9438"
+     CDS             1..2415
+                     /codon_start=1
+                     /product="angiotensin I converting enzyme 2"
+                     /protein_id="QLF98520.1"
+                     /translation="MLGSFWLLLSLVAVTAAQSPTEEEAKIFLQRFNTEAEELHHQNS
+                     LASWDYNTNITDENAQKMNEANNKWSAFYEEQSKHAKRYPLQEIQDPKVKRQLQILQQ
+                     NQPSVLTADKSKRLSTILNTMSTIYSTGKVCNPNNPQECLLLATGLEDIMHNSKDYNQ
+                     RLWAWEGWRSEVGKHLRPLYEEYVVLKNEMARGNNYEDYGDYWRADYETEGAGGYAYS
+                     RNQLIEDVERIFLEIKPLYEHLHAYVRAKLMDTYPSHISPTGCLPAHLLGDMWGRFWT
+                     NLYPLTVPFGQKPNIDVTEAMLNQSWNAERIFKEAEKFFVSIGLPNMTQEFWNNSMLT
+                     EPGDGRKVVCHPTAWDLGKGDFRIKMCTKVTVEDFLTAHHEMGHIQYDMAYAKQPYLL
+                     RNGANEGFHEAVGEVISLSVATPKHLKVMGLLQPNFQEDEETEINFLLKQALSIVGTL
+                     PFTYMLEKWRWMVFKGEIPKEQWMQKWWEMKRDIVGVVEPVPHDETYRDPASLFHVAN
+                     DYSFIRYFTRTIFQFQFQEALCQIAKHDGPLHKCDISNSKEAGKKLLQMLELGKSESW
+                     TFALENIVGNKIMDAKPLLNYFEPLFTWLKEKNGNSVGWHTDWSPYAEQSIKVRISLK
+                     SALGEKAYEWNDNEMYLFRSSVAYAMRKYFSEMKNQMIPFRAEDVWVSDVKPRISFNF
+                     YVTSPKNVSDFIPRSEVEDAIRMSRDRINAAFRLDDNSLEFLGIQPTLGPSYQPPVTI
+                     WLIVFGVVMGVVVIGIAVLIFTGIRDRRKKSQARSEENPYSSVNLSKGESNPGFQHAD
+                     DVQTSF"
+ORIGIN      
+        1 atgttgggct cattctggct ccttctcagc cttgttgctg tgactgctgc tcaatccccc
+       61 actgaggaag aggccaagat atttttgcag cgttttaaca ctgaagctga agaactgcat
+      121 catcaaaatt cacttgcttc ttgggattat aacaccaata ttaccgacga gaatgcccaa
+      181 aaaatgaatg aggccaacaa caaatggtct gctttttatg aagaacagtc caagcatgcc
+      241 aaaaggtatc cgttacaaga aattcaggat cctaaagtca agcgtcagtt gcagatcctt
+      301 cagcagaatc agccatcagt gctcacagca gacaagagca aacgattgag cacaattcta
+      361 aatacaatga gcaccatcta cagtactgga aaagtttgta acccaaataa tccacaggag
+      421 tgcttattac ttgcaacagg cttggaagac ataatgcata acagcaaaga ttataatcaa
+      481 aggctctggg cttgggaagg ctggaggtct gaggtcggca agcatctgag gccattatat
+      541 gaagagtatg ttgtcctgaa aaatgagatg gcaagaggaa acaattacga ggactatggg
+      601 gattattgga gagcagatta tgaaacagag ggtgcaggtg gctatgccta cagccgaaac
+      661 caattgattg aagatgtgga acgtatcttt ttagagatta aaccattata tgaacatctt
+      721 catgcttatg tgagggccaa gttgatggat acctaccctt cccatatcag tccgactgga
+      781 tgcctccctg cccatttact tggtgatatg tggggtagat tttggacaaa tctgtaccct
+      841 ttgacagtcc cctttggaca gaaaccaaac atagatgtta ctgaagcaat gctgaaccag
+      901 tcctggaatg cagagaggat attcaaggag gctgagaagt tctttgtgtc tattggcctt
+      961 cctaatatga ctcaagaatt ctggaataac tctatgctaa ctgagccagg tgacggccgg
+     1021 aaagtggtct gccaccccac agcttgggac ctcgggaaag gagacttcag gatcaagatg
+     1081 tgcacaaagg tgacagtgga ggacttcctg acagcccatc atgagatggg acacatccag
+     1141 tatgacatgg catatgccaa acaaccctac ctactaagaa atggggctaa tgaagggttc
+     1201 catgaagctg ttggggaagt catctcactt tctgtagcta cacctaagca tttgaaagtc
+     1261 atgggtcttc tgcaacctaa ttttcaggaa gacgaagaaa cagaaataaa cttcctactc
+     1321 aaacaagcac ttagtattgt tggaactcta ccattcactt acatgttaga aaagtggagg
+     1381 tggatggtct ttaagggtga aattcctaaa gagcagtgga tgcaaaagtg gtgggagatg
+     1441 aagcgagata tagtcggggt ggtggaacct gtgccccatg atgaaacata ccgtgacccc
+     1501 gcatctctgt tccatgtggc taatgattac tcattcatcc gttatttcac aaggaccatt
+     1561 tttcaattcc agtttcaaga agccctttgt caaatagcta aacatgacgg tcccctacat
+     1621 aaatgtgata tctcaaattc caaagaagct gggaaaaagc tgctccaaat gctggaactt
+     1681 ggaaaatcag aatcctggac ctttgcacta gagaatattg taggaaacaa gattatggat
+     1741 gcaaaaccac tgctcaacta cttcgagcct ttgtttacct ggctgaaaga gaagaacggg
+     1801 aattctgtgg gatggcacac cgactggagt ccatatgctg aacaaagcat caaagtgagg
+     1861 ataagcctaa aatctgctct tggagaaaaa gcatatgaat ggaatgacaa tgaaatgtac
+     1921 ttgttccgat catcggttgc atatgccatg agaaagtact tttcagaaat gaaaaaccag
+     1981 atgattcctt ttagggcgga ggatgtgtgg gtgagtgatg tcaaaccacg aatctccttc
+     2041 aacttctacg tcacttcacc taaaaatgtg tctgacttca tccctagaag tgaagttgaa
+     2101 gacgccatca ggatgtcccg ggaccgtatc aatgctgctt ttcgcctgga tgacaacagc
+     2161 ctggagtttc tgggtattca gcctacactg ggaccatctt accagccacc tgtcaccata
+     2221 tggctgattg tttttggggt tgtgatggga gtggtagtga ttggtattgc tgtgctcatc
+     2281 ttcaccggga tcagagaccg aaggaagaaa agtcaagcaa gaagtgaaga aaatccttat
+     2341 tcttctgtga atttgagtaa aggagaaagt aatccgggat tccaacatgc tgatgatgtt
+     2401 cagacttcat tttga
+//
+

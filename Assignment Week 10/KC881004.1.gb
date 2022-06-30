@@ -1,0 +1,104 @@
+LOCUS       KC881004                2418 bp    mRNA    linear   MAM 22-NOV-2013
+DEFINITION  Rhinolophus sinicus isolate Rs-3357 angiotensin-converting enzyme 2
+            (ACE2) mRNA, complete cds.
+ACCESSION   KC881004
+VERSION     KC881004.1
+KEYWORDS    .
+SOURCE      Rhinolophus sinicus (Chinese rufous horseshoe bat)
+  ORGANISM  Rhinolophus sinicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Chiroptera; Microchiroptera;
+            Rhinolophidae; Rhinolophinae; Rhinolophus.
+REFERENCE   1  (bases 1 to 2418)
+  AUTHORS   Ge,X.Y., Li,J.L., Yang,X.L., Chmura,A.A., Zhu,G., Epstein,J.H.,
+            Mazet,J.K., Hu,B., Zhang,W., Peng,C., Zhang,Y.J., Luo,C.M., Tan,B.,
+            Wang,N., Zhu,Y., Crameri,G., Zhang,S.Y., Wang,L.F., Daszak,P. and
+            Shi,Z.L.
+  TITLE     Isolation and characterization of a bat SARS-like coronavirus that
+            uses the ACE2 receptor
+  JOURNAL   Nature 503, 535-538 (2013)
+   PUBMED   24172901
+REFERENCE   2  (bases 1 to 2418)
+  AUTHORS   Ge,X.-Y., Li,J.-L., Yang,X.-L., Hu,B., Zhang,W., Peng,C.,
+            Zhang,Y.-J., Luo,C.-M., Tan,B., Wang,N., Zhu,Y., Crameri,G.,
+            Wang,L.-F., Daszak,P. and Shi,Z.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-APR-2013) Wuhan Institute of Virology, Chinese
+            Academy of Sciences, 44 Xiao Hong Shan, Wuhan, Hubei 430071, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2418
+                     /organism="Rhinolophus sinicus"
+                     /mol_type="mRNA"
+                     /isolate="Rs-3357"
+                     /db_xref="taxon:89399"
+                     /country="China"
+                     /collection_date="2012"
+     gene            1..2418
+                     /gene="ACE2"
+     CDS             1..2418
+                     /gene="ACE2"
+                     /codon_start=1
+                     /product="angiotensin-converting enzyme 2"
+                     /protein_id="AGZ48803.1"
+                     /translation="MSGSSWLLLSLVAVTTAQSTTEDEAKMFLDKFNTKAEDLSHQSS
+                     LASWDYNTNINDENVQKMDEAGAKWSAFYEEQSKLAKNYSLEQIQNVTVKLQLQILQQ
+                     SGSPVLSEDKSKRLNSILNAMSTIYSTGKVCKPNKPQECLLLEPGLDNIMGTSKDYNE
+                     RLWAWEGWRAEVGKQLRPLYEEYVVLKNEMARGYHYEDYGDYWRRDYETEESPGPGYS
+                     RDQLMKDVERIFTEIKPLYEHLHAYVRAKLMDTYPFHISPTGCLPAHLLGDMWGRFWT
+                     NLYPLTVPFGQKPNIDVTDEMLKQGWDADRIFKEAEKFFVSVGLPNMTEGFWNNSMLT
+                     EPGDGRKVVCHPTAWDLGKGDFRIKMCTKVTMEDFLTAHHEMGHIQYDMAYASQPYLL
+                     RNGANEGFHEAVGEVMSLSVATPKHLKTMGLLSPDFREDNETEINFLLKQALNIVGTL
+                     PFTYMLEKWRWMVFKGEIPKEEWMKKWWEMKRKIVGVVEPVPHDETYCDPASLFHVAN
+                     DYSFIRYYTRTIFEFQFHEALCRIAQHDGPLHKCDISNSTDAGKKLHQMLSVGKSQAW
+                     TKTLEDIVDSRNMDVGPLLKYFEPLYTWLQEQNRKSYVGWNTDWSPYSDQSIKVRISL
+                     KSALGENAYEWNDNEMYLFRSSVAYAMREYFLKEKHQTILFGAENVWVSNLKPRISFN
+                     FHVTSPGNLSDIIPRPEVEGAIRMSRSRINDAFRLDDNSLEFLGIQPTLGPPYQPPVT
+                     IWLIVFGVVMAVVVVGIVVLIITGIRDRRKTDQARSEENPYSSVDLSKGENNPGFQNG
+                     DDVQTSF"
+ORIGIN      
+        1 atgtcaggct cttcctggct ccttctgagc cttgttgctg taaccactgc tcaatccacc
+       61 actgaggacg aggccaagat gtttttggac aagtttaaca ctaaagctga agacctgtct
+      121 catcaaagtt cacttgcttc ttgggactat aacaccaata ttaacgatga gaatgtccaa
+      181 aagatggatg aggctggggc caaatggtct gccttttatg aagaacagtc caagcttgcc
+      241 aaaaattatt cactagaaca aattcagaac gtcacagtca agctccagtt gcagattctt
+      301 cagcagagtg ggtcgccagt gctctcggaa gacaagagca aacgattgaa ctcaattcta
+      361 aatgcaatga gcaccatcta tagtactgga aaagtttgca agccaaataa gccacaggag
+      421 tgcttattac ttgaaccagg tttggacaac ataatgggaa cgagcaaaga ttacaatgaa
+      481 agactctggg cttgggaagg ctggagggct gaggtcggca agcagctgag gccattatac
+      541 gaagagtatg tggtcctgaa aaatgagatg gcaagaggat accattatga ggactatggg
+      601 gattattgga gaagagatta tgaaacagag gagtcacctg gccctgggta tagccgtgac
+      661 cagttgatga aagatgtgga acgtatcttt acagagatta aaccattata tgaacatctt
+      721 catgcgtatg tgagggcaaa gttgatggat acctaccctt tccatatcag tccaactgga
+      781 tgcctccctg cccatttgct tggtgatatg tggggtagat tttggacaaa tctgtaccct
+      841 ttgacagtcc cctttggaca gaagccaaac atagatgtta ctgatgaaat gttgaagcag
+      901 ggctgggatg cagacaggat attcaaggag gctgagaagt tctttgtgtc tgttggactt
+      961 cctaatatga ccgaaggatt ctggaataat tccatgctaa ctgagccagg tgacggccgg
+     1021 aaagtggtct gccaccccac agcctgggac ctggggaagg gtgacttcag gatcaagatg
+     1081 tgcacgaagg tgacaatgga ggacttcctg acagcgcatc atgagatggg acacatccag
+     1141 tatgacatgg cctatgcctc acaaccctac ctgctaagaa atggagctaa tgaagggttc
+     1201 catgaagctg ttggggaagt catgtcactt tctgtagcta cacctaaaca tttgaaaacc
+     1261 atgggtctac tgtcacctga ttttcgtgaa gacaatgaaa cagaaataaa cttcctactc
+     1321 aaacaagcac tgaatattgt tggaacgcta ccatttactt acatgttaga aaagtggagg
+     1381 tggatggtct ttaagggtga aattcccaaa gaggagtgga tgaaaaagtg gtgggagatg
+     1441 aagcgaaaga tcgtcggggt ggtggaacct gtaccccatg atgaaacgta ctgtgaccca
+     1501 gcgtctctgt tccatgttgc taatgattac tcattcatcc gttattacac aaggaccatt
+     1561 tttgaattcc agtttcatga agccctgtgt cgaatagctc aacacgatgg tcccctgcac
+     1621 aaatgtgata tctcaaattc cactgacgca gggaagaagc tgcaccagat gttgagcgtt
+     1681 ggaaaatcac aagcctggac caaaacactg gaagatattg tggactcaag gaatatggat
+     1741 gtaggcccac tgctcaaata cttcgagcca ttgtatacct ggctgcagga gcagaacagg
+     1801 aagtcttatg tgggatggaa cactgattgg agtccatact ctgaccaaag cattaaagtg
+     1861 aggataagcc taaaatcagc tcttggagaa aacgcctatg aatggaatga caatgaaatg
+     1921 tacttgttcc ggtcatccgt tgcgtatgcc atgagagagt attttttaaa agagaaacac
+     1981 cagacaattc tttttggggc agaaaacgtg tgggtgagta atttgaagcc aagaatctcc
+     2041 ttcaacttcc atgtcacttc acctggaaat ctgtctgaca tcattcctag accggaagtt
+     2101 gaaggggcca tcaggatgtc tcggagccgt atcaatgatg ctttccgcct ggatgacaac
+     2161 agcctggagt ttctgggtat tcagccgaca ctgggacccc cttaccagcc acctgtcacc
+     2221 atatggttga ttgttttcgg ggttgtgatg gcagtggtag tggtggggat tgttgtgctc
+     2281 atcatcaccg gaatcagaga ccgaaggaag acagatcaag caagaagtga agaaaatcct
+     2341 tattcttccg tggatttgag taaaggagaa aataatccag gattccaaaa tggtgatgat
+     2401 gttcagacct ccttttag
+//
+

@@ -1,0 +1,91 @@
+LOCUS       MT663962                2418 bp    mRNA    linear   MAM 10-JUL-2020
+DEFINITION  Arctonyx collaris angiotensin I converting enzyme 2 mRNA, complete
+            cds.
+ACCESSION   MT663962
+VERSION     MT663962.1
+KEYWORDS    .
+SOURCE      Arctonyx collaris
+  ORGANISM  Arctonyx collaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Mustelidae; Melinae; Arctonyx.
+REFERENCE   1  (bases 1 to 2418)
+  AUTHORS   Lin,H.
+  TITLE     Broad and differential animal ACE2 receptor usage by SARS-CoV-2
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2418)
+  AUTHORS   Lin,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JUN-2020) Pathology and Laboratory Medicine, Western
+            University, 1151 Richmond St, london, on N6A 3K7, Canada
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2418
+                     /organism="Arctonyx collaris"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:139309"
+     CDS             1..2418
+                     /codon_start=1
+                     /product="angiotensin I converting enzyme 2"
+                     /protein_id="QLF98526.1"
+                     /translation="MLGSSWLLLSLAALTAAQSTTEDLVKTFLEKFNREAEELSYQNS
+                     LASWNYNTNITDENIQKMNIAGAKWSAFYEEQSQHAKTYPLEEIQDPTNKRQLRALQQ
+                     SGSSVLSADKRERLNTILNAMSTIYSTGKACSPNNPQECLLLEPGLDDIMENSKDYSE
+                     RLWAWEGWRSEVGKQLRPLYEEYVALKNEMARANNYEDYGDYWRGDYEEESSDGYSYS
+                     RNQLIEDVEHTFTQIKPLYEHLHSYVRAKLMDIYPSRISPTGCLPAHLLGDMWGRFWT
+                     NLYPLMVPFGQKPNIDVTDAMVNQSWDAKRIFEEAEKFFVSVGLPNMTEGFWKNSMLT
+                     EPGDNQKVVCHPTAWDLGKHDFRIKMCTKVTMDDFLTAHHEMGHIQYDMAYATKPFLL
+                     RNGANEGFHEAVGEIMSLSAATPNHLKNIGLLPADFSEDNETDINFLLKQALTIVGTL
+                     PFTYMLEKWRWMVFKGEIPKEQWMQKWWEMKRDIVGVVEPLPHDETYCDPAALFHVAN
+                     DYSFIRYYTRTIYQFQFQEALCQIAKHEGPLYKCDISNSREAGQKLHEMLSLGRSKPW
+                     TFALERVVGAKTMDVRPLLNYFEPLFTWLKEQNRNSFVGWNTDWSPYADQSIKVRISL
+                     KSALGENAYEWNDNEMYFFRSTIAYAMRKYFLKHKLQSIPFVEENVRVSDLKPRISFN
+                     FFVTSPGNMSDIIPRADVEEAIRESRGRINDAFLLDDNSLEFLGIPPTLETPYQPPVT
+                     IWLIVFGVVMGVVVVGIFLLIFSGIRNRRKNDQARSEENPYASVDLSKGENNPGFQNV
+                     DDVQTSF"
+ORIGIN      
+        1 atgttaggct cttcctggct ccttctcagc ctcgctgctc taactgctgc tcagtccacc
+       61 actgaggatc tggtcaagac atttttggag aagtttaacc gtgaagccga agagctgtct
+      121 tatcaaaatt cacttgcttc ttggaattat aacaccaata ttaccgatga gaatatccag
+      181 aagatgaata ttgctggggc caagtggtct gccttttatg aagaacagtc ccagcatgcc
+      241 aaaacctacc cactagaaga aatacaggat cctacaaaca agcgtcagtt gcgggccctt
+      301 cagcagagtg ggtcatcggt gctctcagca gacaagcgcg aacgactgaa cacaatccta
+      361 aatgccatga gcactatcta cagtactgga aaagcttgta gcccaaataa tccacaggag
+      421 tgtttattac ttgaaccagg tttggatgac ataatggaaa acagcaaaga ctacagtgag
+      481 aggctctggg cctgggaagg ctggaggtct gaggtcggca agcagctgag accattatat
+      541 gaagagtatg tggcccttaa aaatgagatg gcaagagcca acaattatga ggactatggg
+      601 gattattgga gaggagacta tgaagaggag tcgtcagacg gctatagcta cagccgcaac
+      661 cagctgattg aagacgtgga acacaccttc acacagatta aaccactgta tgaacatctt
+      721 cattcttatg tgagggcaaa gttgatggac atctaccctt cccgtatcag cccaactgga
+      781 tgcctcccgg cccatttgct tggcgatatg tggggtcgat tttggacaaa cctgtaccct
+      841 ctgatggtcc cctttggaca gaaaccaaac atagatgtca ctgatgcaat ggtgaaccag
+      901 agctgggatg caaagaggat ttttgaggag gctgagaaat tctttgtatc tgttggcctt
+      961 cccaacatga ctgaagggtt ctggaaaaac tccatgctaa cggagccagg cgacaaccag
+     1021 aaagtggtct gccaccccac agcttgggac ctagggaagc atgacttcag gatcaagatg
+     1081 tgcacaaagg tgacgatgga tgacttcctg acagcccatc atgagatggg acacatccag
+     1141 tatgacatgg catatgccac aaaacccttc ctgctgagaa atggagctaa tgaagggttc
+     1201 catgaagctg tgggggaaat catgtcactt tctgcagcta cacccaacca tttgaaaaac
+     1261 attggtcttc tgccagctga tttttctgaa gacaatgaaa cagacataaa cttcctactc
+     1321 aaacaagcac ttacaattgt tggaactcta ccatttactt acatgttaga aaagtggaga
+     1381 tggatggtct ttaagggtga aattcccaaa gagcagtgga tgcagaaatg gtgggagatg
+     1441 aagcgagata tagtcggggt ggtggaaccc ttgccccatg atgagacata ctgtgaccct
+     1501 gctgctctgt tccatgttgc taacgattac tcattcatca gatattacac aaggaccatt
+     1561 taccaattcc agtttcaaga agccctttgt caaatagcta aacatgaagg tcccctatac
+     1621 aaatgtgaca tctccaattc ccgtgaagct gggcagaagc tgcacgaaat gctgagcctt
+     1681 ggaagatcaa aaccctggac ctttgcatta gaacgtgttg taggagcaaa gactatggat
+     1741 gtaagaccac tgctcaacta cttcgagccc ttgtttacct ggctgaaaga gcaaaacagg
+     1801 aattcttttg tgggttggaa cactgactgg agtccatatg ctgaccaaag cattaaagta
+     1861 aggataagcc taaaatcagc tcttggagaa aatgcatacg aatggaatga caacgaaatg
+     1921 tacttcttcc ggtcgactat tgcatatgcc atgagaaagt attttttgaa acacaaatta
+     1981 caaagtatcc catttgtgga ggaaaacgtg agggtgagcg atttgaaacc cagaatctcc
+     2041 ttcaacttct ttgtcacttc acctggaaat atgtctgaca tcattcctag agctgacgtc
+     2101 gaggaagcta tcagggagtc ccggggccgt atcaatgatg ctttcctcct ggatgacaac
+     2161 agcctggagt ttctggggat tccgccaaca ctggaaaccc cttaccagcc acctgtcacc
+     2221 atatggctga tcgtgtttgg ggtcgtgatg ggagtggtgg tggttggcat tttcctgctc
+     2281 atcttctctg ggatcagaaa tcgaaggaag aacgatcaag ccagaagtga agaaaatcct
+     2341 tacgcctctg tggacttgag taaaggagaa aataatccgg gattccaaaa tgttgatgat
+     2401 gttcagactt cattttag
+//
+

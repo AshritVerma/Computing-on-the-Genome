@@ -1,0 +1,367 @@
+LOCUS       NM_001130513            3566 bp    mRNA    linear   ROD 21-OCT-2020
+DEFINITION  Mus musculus angiotensin I converting enzyme (peptidyl-dipeptidase
+            A) 2 (Ace2), transcript variant 1, mRNA.
+ACCESSION   NM_001130513
+VERSION     NM_001130513.1
+KEYWORDS    RefSeq.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 3566)
+  AUTHORS   Israelow B, Song E, Mao T, Lu P, Meir A, Liu F, Alfajaro MM, Wei J,
+            Dong H, Homer RJ, Ring A, Wilen CB and Iwasaki A.
+  TITLE     Mouse model of SARS-CoV-2 reveals inflammatory role of type I
+            interferon signaling
+  JOURNAL   J Exp Med 217 (12) (2020)
+   PUBMED   32750141
+REFERENCE   2  (bases 1 to 3566)
+  AUTHORS   Johansen MD, Irving A, Montagutelli X, Tate MD, Rudloff I, Nold MF,
+            Hansbro NG, Kim RY, Donovan C, Liu G, Faiz A, Short KR, Lyons JG,
+            McCaughan GW, Gorrell MD, Cole A, Moreno C, Couteur D, Hesselson D,
+            Triccas J, Neely GG, Gamble JR, Simpson SJ, Saunders BM, Oliver BG,
+            Britton WJ, Wark PA, Nold-Petry CA and Hansbro PM.
+  TITLE     Animal and translational models of SARS-CoV-2 infection and
+            COVID-19
+  JOURNAL   Mucosal Immunol 13 (6), 877-891 (2020)
+   PUBMED   32820248
+  REMARK    Review article
+REFERENCE   3  (bases 1 to 3566)
+  AUTHORS   Munoz-Fontela C, Dowling WE, Funnell SGP, Gsell PS, Riveros-Balta
+            AX, Albrecht RA, Andersen H, Baric RS, Carroll MW, Cavaleri M, Qin
+            C, Crozier I, Dallmeier K, de Waal L, de Wit E, Delang L, Dohm E,
+            Duprex WP, Falzarano D, Finch CL, Frieman MB, Graham BS, Gralinski
+            LE, Guilfoyle K, Haagmans BL, Hamilton GA, Hartman AL, Herfst S,
+            Kaptein SJF, Klimstra WB, Knezevic I, Krause PR, Kuhn JH, Le Grand
+            R, Lewis MG, Liu WC, Maisonnasse P, McElroy AK, Munster V,
+            Oreshkova N, Rasmussen AL, Rocha-Pereira J, Rockx B, Rodriguez E,
+            Rogers TF, Salguero FJ, Schotsaert M, Stittelaar KJ, Thibaut HJ,
+            Tseng CT, Vergara-Alert J, Beer M, Brasel T, Chan JFW,
+            Garcia-Sastre A, Neyts J, Perlman S, Reed DS, Richt JA, Roy CJ,
+            Segales J, Vasan SS, Henao-Restrepo AM and Barouch DH.
+  TITLE     Animal models for COVID-19
+  JOURNAL   Nature (2020) In press
+   PUBMED   32967005
+  REMARK    Review article
+            Publication Status: Available-Online prior to print
+REFERENCE   4  (bases 1 to 3566)
+  AUTHORS   Mullick JB, Simmons CS and Gaire J.
+  TITLE     Animal Models to Study Emerging Technologies Against SARS-CoV-2
+  JOURNAL   Cell Mol Bioeng, 1-11 (2020) In press
+   PUBMED   32837584
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   5  (bases 1 to 3566)
+  AUTHORS   Wang J, Kaplan N, Wysocki J, Yang W, Lu K, Peng H, Batlle D and
+            Lavker RM.
+  TITLE     The ACE2-deficient mouse: A model for a cytokine storm-driven
+            inflammation
+  JOURNAL   FASEB J (2020) In press
+   PUBMED   32725927
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   6  (bases 1 to 3566)
+  AUTHORS   Li W, Greenough TC, Moore MJ, Vasilieva N, Somasundaran M, Sullivan
+            JL, Farzan M and Choe H.
+  TITLE     Efficient replication of severe acute respiratory syndrome
+            coronavirus in mouse cells is limited by murine
+            angiotensin-converting enzyme 2
+  JOURNAL   J Virol 78 (20), 11429-11433 (2004)
+   PUBMED   15452268
+  REMARK    GeneRIF: Murine ACE2 less efficiently bound the S1 domain of
+            SARS-CoV and supported less-efficient S protein-mediated infection.
+REFERENCE   7  (bases 1 to 3566)
+  AUTHORS   Glass WG, Subbarao K, Murphy B and Murphy PM.
+  TITLE     Mechanisms of host defense following severe acute respiratory
+            syndrome-coronavirus (SARS-CoV) pulmonary infection of mice
+  JOURNAL   J Immunol 173 (6), 4030-4039 (2004)
+   PUBMED   15356152
+REFERENCE   8  (bases 1 to 3566)
+  AUTHORS   Donoghue M, Wakimoto H, Maguire CT, Acton S, Hales P, Stagliano N,
+            Fairchild-Huntress V, Xu J, Lorenz JN, Kadambi V, Berul CI and
+            Breitbart RE.
+  TITLE     Heart block, ventricular tachycardia, and sudden death in ACE2
+            transgenic mice with downregulated connexins
+  JOURNAL   J Mol Cell Cardiol 35 (9), 1043-1053 (2003)
+   PUBMED   12967627
+REFERENCE   9  (bases 1 to 3566)
+  AUTHORS   Komatsu T, Suzuki Y, Imai J, Sugano S, Hida M, Tanigami A, Muroi S,
+            Yamada Y and Hanaoka K.
+  TITLE     Molecular cloning, mRNA expression and chromosomal localization of
+            mouse angiotensin-converting enzyme-related carboxypeptidase
+            (mACE2)
+  JOURNAL   DNA Seq 13 (4), 217-220 (2002)
+   PUBMED   12487024
+  REMARK    GeneRIF: ACE2 gene is expressed mainly in the kidney and the lungs.
+REFERENCE   10 (bases 1 to 3566)
+  AUTHORS   Crackower MA, Sarao R, Oudit GY, Yagil C, Kozieradzki I, Scanga SE,
+            Oliveira-dos-Santos AJ, da Costa J, Zhang L, Pei Y, Scholey J,
+            Ferrario CM, Manoukian AS, Chappell MC, Backx PH, Yagil Y and
+            Penninger JM.
+  TITLE     Angiotensin-converting enzyme 2 is an essential regulator of heart
+            function
+  JOURNAL   Nature 417 (6891), 822-828 (2002)
+   PUBMED   12075344
+  REMARK    GeneRIF: Angiotensin-converting enzyme 2 is an essential regulator
+            of heart function.
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            BY722909.1 and AK141604.1.
+            
+            Transcript Variant: This variant (1) represents the longer
+            transcript.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: EF408739.1, EF408740.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN00849387, SAMN01164133
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-300               BY722909.1         2-301
+            301-3566            AK141604.1         2-3267
+FEATURES             Location/Qualifiers
+     source          1..3566
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="X"
+                     /map="X 76.12 cM"
+     gene            1..3566
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /note="angiotensin I converting enzyme
+                     (peptidyl-dipeptidase A) 2"
+                     /db_xref="GeneID:70008"
+                     /db_xref="MGI:MGI:1917258"
+     exon            1..227
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            228..516
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    286..288
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /note="upstream in-frame stop codon"
+     CDS             331..2748
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /EC_number="3.4.17.23"
+                     /note="angiotensin I converting enzyme 2; ACE-related
+                     carboxypeptidase; angiotensin-converting enzyme 2"
+                     /codon_start=1
+                     /product="angiotensin-converting enzyme 2 precursor"
+                     /protein_id="NP_001123985.1"
+                     /db_xref="CCDS:CCDS30518.1"
+                     /db_xref="GeneID:70008"
+                     /db_xref="MGI:MGI:1917258"
+                     /translation="MSSSSWLLLSLVAVTTAQSLTEENAKTFLNNFNQEAEDLSYQSS
+                     LASWNYNTNITEENAQKMSEAAAKWSAFYEEQSKTAQSFSLQEIQTPIIKRQLQALQQ
+                     SGSSALSADKNKQLNTILNTMSTIYSTGKVCNPKNPQECLLLEPGLDEIMATSTDYNS
+                     RLWAWEGWRAEVGKQLRPLYEEYVVLKNEMARANNYNDYGDYWRGDYEAEGADGYNYN
+                     RNQLIEDVERTFAEIKPLYEHLHAYVRRKLMDTYPSYISPTGCLPAHLLGDMWGRFWT
+                     NLYPLTVPFAQKPNIDVTDAMMNQGWDAERIFQEAEKFFVSVGLPHMTQGFWANSMLT
+                     EPADGRKVVCHPTAWDLGHGDFRIKMCTKVTMDNFLTAHHEMGHIQYDMAYARQPFLL
+                     RNGANEGFHEAVGEIMSLSAATPKHLKSIGLLPSDFQEDSETEINFLLKQALTIVGTL
+                     PFTYMLEKWRWMVFRGEIPKEQWMKKWWEMKREIVGVVEPLPHDETYCDPASLFHVSN
+                     DYSFIRYYTRTIYQFQFQEALCQAAKYNGSLHKCDISNSTEAGQKLLKMLSLGNSEPW
+                     TKALENVVGARNMDVKPLLNYFQPLFDWLKEQNRNSFVGWNTEWSPYADQSIKVRISL
+                     KSALGANAYEWTNNEMFLFRSSVAYAMRKYFSIIKNQTVPFLEEDVRVSDLKPRVSFY
+                     FFVTSPQNVSDVIPRSEVEDAIRMSRGRINDVFGLNDNSLEFLGIHPTLEPPYQPPVT
+                     IWLIIFGVVMALVVVGIIILIVTGIKGRKKKNETKREENPYDSMDIGKGESNAGFQNS
+                     DDAQTSF"
+     sig_peptide     331..381
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     misc_feature    487..489
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q8R0I0.1); glycosylation site"
+     misc_feature    1363..1368
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8R0I0.1);
+                     Region: Substrate binding.
+                     /evidence=ECO:0000250|UniProtKB:Q9BYF1"
+     misc_feature    1936..1938
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q8R0I0.1); glycosylation site"
+     misc_feature    1966..1968
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q8R0I0.1); glycosylation site"
+     misc_feature    2284..2307
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8R0I0.1);
+                     Region: Essential for cleavage by ADAM17.
+                     /evidence=ECO:0000250"
+     misc_feature    2308..2310
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q8R0I0.1); glycosylation site"
+     misc_feature    2398..2400
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q8R0I0.1); glycosylation site"
+     misc_feature    2419..2478
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8R0I0.1);
+                     Region: Essential for cleavage by TMPRSS11D and TMPRSS2.
+                     /evidence=ECO:0000250"
+     misc_feature    2551..2613
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8R0I0.1);
+                     transmembrane region"
+     exon            517..675
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            676..769
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            770..913
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            914..1026
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1027..1132
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1133..1230
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1231..1400
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1401..1627
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1628..1772
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1773..1871
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1872..1994
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1995..2167
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2168..2226
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2227..2327
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2328..2444
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2445..2639
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2640..3566
+                     /gene="Ace2"
+                     /gene_synonym="2010305L05Rik"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 aggcccatga gccctgccat ttaaagtggc tcctctctta cactctggga atgaggacac
+       61 ggagccagct gctgaacttc accaggataa ccattaaaat tgctttggag ttcatatttc
+      121 cacgatccca tgcctatgga tgccaaggac ttgtcatgga tgcgctttgg atttcataat
+      181 gcagagtcat tattacttcc ttgagttctc agctgagttg taagcagtgc ccaacccaag
+      241 ttcaaaggct gatgagagag aaaaactcat gaagagattt tactctaggg aaagttgctc
+      301 agtggatggg atcttggcgc acggggaaag atgtccagct cctcctggct ccttctcagc
+      361 cttgttgctg ttactactgc tcagtccctc accgaggaaa atgccaagac atttttaaac
+      421 aactttaatc aggaagctga agacctgtct tatcaaagtt cacttgcttc ttggaattat
+      481 aatactaaca ttactgaaga aaatgcccaa aagatgagtg aggctgcagc caaatggtct
+      541 gccttttatg aagaacagtc taagactgcc caaagtttct cactacaaga aatccagact
+      601 ccgatcatca agcgtcaact acaggccctt cagcaaagtg ggtcttcagc actctcagca
+      661 gacaagaaca aacagttgaa cacaattctg aacaccatga gcaccattta cagtactgga
+      721 aaagtttgca acccaaagaa cccacaagaa tgcttattac ttgagccagg attggatgaa
+      781 ataatggcga caagcacaga ctacaactct aggctctggg catgggaggg ctggagggct
+      841 gaggttggca agcagctgag gccgttgtat gaagagtatg tggtcctgaa aaacgagatg
+      901 gcaagagcaa acaattataa cgactatggg gattattgga gaggggacta tgaagcagag
+      961 ggagcagatg gctacaacta taaccgtaac cagttgattg aagatgtaga acgtaccttc
+     1021 gcagagatca agccattgta tgagcatctt catgcctatg tgaggaggaa gttgatggat
+     1081 acctaccctt cctacatcag ccccactgga tgcctccctg cccatttgct tggtgatatg
+     1141 tggggtagat tttggacaaa tctgtaccct ttgactgttc cctttgcaca gaaaccaaac
+     1201 atagatgtta ctgatgcaat gatgaatcag ggctgggatg cagaaaggat atttcaagag
+     1261 gcagagaaat tctttgtttc tgttggcctt cctcatatga ctcaaggatt ctgggcaaac
+     1321 tctatgctga ctgagccagc agatggccgg aaagttgtct gccaccccac agcttgggat
+     1381 ctgggacacg gagacttcag aatcaagatg tgtacaaagg tcacaatgga caacttcttg
+     1441 acagcccatc acgagatggg acacatccaa tatgacatgg catatgccag gcaacctttc
+     1501 ctgctaagaa acggagccaa tgaagggttc catgaagctg ttggagaaat catgtcactt
+     1561 tctgcagcta cccccaagca tctgaaatcc attggtcttc tgccatccga ttttcaagaa
+     1621 gatagcgaaa cagagataaa cttcctactg aaacaggcat tgacaattgt tggaacacta
+     1681 ccgtttactt acatgttaga gaagtggagg tggatggtct ttcggggtga aattcccaaa
+     1741 gagcagtgga tgaaaaagtg gtgggagatg aagcgggaga tcgttggtgt ggtggagcct
+     1801 ctgcctcatg atgaaacata ctgtgaccct gcatctctgt tccatgtttc taatgattac
+     1861 tcattcattc gatattacac aaggaccatt taccaattcc agtttcaaga agctctttgt
+     1921 caagcagcta agtataatgg ttctctgcac aaatgtgaca tctcaaattc cactgaagct
+     1981 gggcagaagt tgctcaagat gctgagtctt ggaaattcag agccctggac caaagccttg
+     2041 gaaaatgtgg taggagcaag gaatatggat gtaaaaccac tgctcaatta cttccaaccg
+     2101 ttgtttgact ggctgaaaga gcagaacaga aattcttttg tggggtggaa cactgaatgg
+     2161 agcccatatg ccgaccaaag cattaaagtg aggataagcc taaaatcagc tcttggagct
+     2221 aatgcatatg aatggaccaa caacgaaatg ttcctgttcc gatcatctgt tgcatatgcc
+     2281 atgagaaagt atttttcaat aatcaaaaac cagacagttc cttttctaga ggaagatgta
+     2341 cgagtgagtg atttgaaacc aagagtctcc ttctacttct ttgtcacctc accccaaaat
+     2401 gtgtctgatg tcattcctag aagtgaagtt gaagatgcca tcaggatgtc tcggggccgc
+     2461 atcaatgatg tctttggcct gaatgataac agcctggagt ttctggggat tcacccaaca
+     2521 cttgagccac cttaccagcc tcctgtcacc atatggctga ttatttttgg tgttgtgatg
+     2581 gcactggtag tggttggcat catcatcctg attgtcactg ggatcaaagg tcgaaagaag
+     2641 aaaaatgaaa caaaaagaga agagaaccct tatgactcga tggacattgg aaaaggagaa
+     2701 agcaatgcag gattccaaaa cagtgatgat gctcagactt ccttttagca aagcacttgt
+     2761 catcttcctg tatgtaaatg ctaacttcat agtacacaaa atatgagagt atacacatgt
+     2821 cattagctat caaaactatg atctgttcag taaacgttgt ccaaagagca tcagacttga
+     2881 gtggacatct tcactgacat tgctttcagt atttatttct gcctaaggat ttgacatctc
+     2941 ttctgtttat taatagagat gtttatctta gcataaaaga gggaaatgtg cctttggcct
+     3001 cacagtctat ccagggtgat atggttgggt aactggagtt agaagatgag atgatgtctc
+     3061 ttgggggcaa gtgttggctt cggtgtggca tctgggctgt gaactggtgg gactgttgag
+     3121 gttgagaatg gtgctcgctg gtcacttgaa tccaagtgtg acgtcatgct ctgtggcttc
+     3181 tgccttcaca cttctcactt caagtactgt aggaatttgt tcacagtaat acttgaaatg
+     3241 gactgtccct tctttggagg tgcagttcaa cggagaaaga agccagacat caggtagaga
+     3301 ccatgacctt ttctcttcca aacttgatca acatctctct aacaagacac agctagcaca
+     3361 ggaaactcca cgaacccaga gcatgcctgt cagaaactac ttccattatt ctcccattgt
+     3421 ggagtaaggg aaaattccag atgaatgctc gatctgtgag atgggtgccc agtctctgaa
+     3481 attgtttgta ttttctcaca gggtctgagc aatggtgaac acaaagccga cctcaataaa
+     3541 tacttattag atttagacac tcctct
+//
+

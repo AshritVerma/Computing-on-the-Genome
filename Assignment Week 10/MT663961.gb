@@ -1,0 +1,91 @@
+LOCUS       MT663961                2418 bp    mRNA    linear   MAM 10-JUL-2020
+DEFINITION  Oryctolagus cuniculus angiotensin I converting enzyme 2 mRNA,
+            complete cds.
+ACCESSION   MT663961
+VERSION     MT663961.1
+KEYWORDS    .
+SOURCE      Oryctolagus cuniculus (rabbit)
+  ORGANISM  Oryctolagus cuniculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha;
+            Leporidae; Oryctolagus.
+REFERENCE   1  (bases 1 to 2418)
+  AUTHORS   Lin,H.
+  TITLE     Broad and differential animal ACE2 receptor usage by SARS-CoV-2
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2418)
+  AUTHORS   Lin,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JUN-2020) Pathology and Laboratory Medicine, Western
+            University, 1151 Richmond St, london, on N6A 3K7, Canada
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2418
+                     /organism="Oryctolagus cuniculus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9986"
+     CDS             1..2418
+                     /codon_start=1
+                     /product="angiotensin I converting enzyme 2"
+                     /protein_id="QLF98525.1"
+                     /translation="MSGSSWLLLSLVAVTAAQSTIEELAKTFLEKFNQEAEDLSYQSA
+                     LASWDYNTNITEENVQKMNDAEAKWSAFYEEQSKLAKTYPSQEVQNLTVKRQLQALQQ
+                     SGSSALSADKSKQLNTILSTMSTIYSTGKVCNQSNPQECFLLEPGLDEIMAKSTDYNE
+                     RLWAWEGWRSVVGKQLRPLYEEYVVLKNEMARANNYEDYGDYWRADYEAEGADGYDYS
+                     RSQLIDDVERTFSEIKPLYEQLHAFVRTKLMDAYPSRISPTGCLPAHLLGDMWGRFWT
+                     NLYSLTVPFGQKPNIDVTDTMVNQGWDAERIFKEAEKFFVSVGLPSMTQGFWENSMLT
+                     EPGDGRKVVCHPTAWDLGKGDFRIKMCTKVTMDNFLTAHHEMGHIQYDMAYATQPFLL
+                     RNGANEGFHEAVGEIMSLSAATPEHLKSIGLLPYDFHEDNETEINFLLKQALTIVGTL
+                     PFTYMLEKWRWMVFKGEIPKEQWMQKWWEMKREIVGVVEPMPHDETYCDPAALFHVAN
+                     DYSFIRYYTRTIYQFQFQEALCQAAQHEGPLHKCDISNSTEAGQKLLNMLRLGRSEPW
+                     TLALENVVGAKNMDVRPLLNYFEPLFTWLKEQNRNSFVGWSTEWTPYADQSIKVRISL
+                     KTALGDQAYEWNDSEMYLFRSSVAYAMRKYFSEVKNQTILFGEEDVRVSDLKPRISFN
+                     FFVTAPNNVNDIIPRNEVEEAISMSRSRINDIFRLDDNSLEFVGIQPTLEPPYESPVP
+                     IWLVVFGVVMGMIVIGIVVLIFTGIKDRRKQKQAKRGENPYGFVDMSKGENNSGFQNS
+                     DDIQTSF"
+ORIGIN      
+        1 atgtcaggtt cttcctggct ccttctcagc cttgtggctg tcactgctgc tcagtctacc
+       61 atcgaggaac tggccaagac atttttggag aagtttaacc aggaagctga agacctgtct
+      121 tatcaaagtg cacttgcttc ttgggattat aacaccaata ttaccgaaga gaatgtccaa
+      181 aagatgaatg atgctgaggc caaatggtct gccttttatg aagaacagtc caagcttgcc
+      241 aaaacgtatc cgtcacaaga agttcagaat ctcacagtca agcgtcaact gcaggccctt
+      301 cagcagagtg ggtcatcagc gctctcagca gacaagagca aacaattgaa tacaattcta
+      361 agcacaatga gcaccatcta cagtactgga aaagtttgta accaaagtaa tccacaggag
+      421 tgctttttac ttgaaccagg tttggatgag ataatggcaa agagcacaga ctacaatgag
+      481 cggctctggg cttgggaagg ctggcggtct gtggttggca agcagctgag gcctctatat
+      541 gaagagtacg tggtcctaaa aaatgagatg gcaagagcaa acaattatga agactacggg
+      601 gattattgga gagcagatta tgaagccgag ggggcagatg gctatgacta tagccgcagc
+      661 cagttgattg acgatgtgga acgtaccttc tcagagatta aaccattata tgaacaactc
+      721 catgcctttg tgaggacaaa gttgatggat gcctaccctt cccgtatcag tccaactgga
+      781 tgcctccctg ctcatttgct tggtgatatg tggggtagat tttggacaaa tctgtactct
+      841 ttgacagttc cctttggaca gaaaccaaac atagatgtta ctgacacaat ggtgaaccag
+      901 ggctgggatg cagagaggat attcaaggag gctgagaagt tctttgtgtc tgttggtctt
+      961 cctagtatga ctcaaggatt ctgggaaaac tccatgctaa ctgagccagg agatggccgg
+     1021 aaagtggtct gccaccccac agcctgggac ctggggaagg gcgacttcag gatcaagatg
+     1081 tgcacaaaag taacaatgga caatttcctg acagcgcatc acgagatggg acatatccag
+     1141 tatgacatgg catatgccac gcagcctttc ctgctaagaa atggagctaa tgaaggattc
+     1201 catgaagccg ttggagaaat catgtcactt tctgcagcta cccctgagca cttgaaatcc
+     1261 attggtcttc ttccatatga ttttcatgaa gacaatgaaa cagaaataaa cttcctactc
+     1321 aaacaagcac tcacgattgt tggaactcta ccatttactt acatgttaga gaagtggaga
+     1381 tggatggtct ttaagggtga aattcccaaa gagcagtgga tgcaaaagtg gtgggagatg
+     1441 aagcgagaga tagttggggt ggtagaaccc atgccccatg atgaaacata ctgcgaccct
+     1501 gcggctctgt tccatgttgc taatgattat tcattcatcc gatattacac caggacaatt
+     1561 tatcaatttc agtttcaaga agccctttgt caagcagctc aacatgaagg tcccctgcac
+     1621 aaatgtgaca tctcaaattc cactgaagct gggcagaagc tgctcaatat gctgagactc
+     1681 ggaagatcag aaccctggac cttagcattg gaaaatgttg taggagcaaa aaatatggat
+     1741 gtaagaccac tgctcaacta ctttgagccc ttgtttacct ggctgaaaga gcagaacagg
+     1801 aattcctttg tgggctggag cactgagtgg accccatatg ctgaccaaag catcaaagtg
+     1861 aggataagcc taaaaacagc tcttggagac caggcatacg aatggaatga cagtgaaatg
+     1921 tacttattcc ggtcatctgt tgcatatgcc atgagaaaat acttttcaga agtcaaaaac
+     1981 cagacgattc tttttgggga ggaggatgtc agagtgagtg atttgaaacc aagaatctcc
+     2041 ttcaacttct tcgtgactgc acctaacaac gtgaatgaca tcatccctag aaatgaagtt
+     2101 gaagaggcta tcagcatgtc ccggagtcgt atcaatgata ttttccgtct ggatgataac
+     2161 agcctggagt ttgtggggat tcagccaaca cttgaacccc cttatgagtc acctgtcccc
+     2221 atatggctgg ttgtttttgg agttgtgatg ggaatgatag tgattggcat tgttgtcctg
+     2281 atcttcactg gaatcaagga ccgaaggaag caaaagcaag ccaaaagggg agaaaatcct
+     2341 tatggctttg tggacatgag taaaggagaa aataattcgg gattccaaaa cagtgatgat
+     2401 atccagactt cattttag
+//
+

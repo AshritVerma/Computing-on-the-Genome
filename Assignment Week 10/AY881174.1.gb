@@ -1,0 +1,121 @@
+LOCUS       AY881174                2418 bp    mRNA    linear   MAM 11-APR-2005
+DEFINITION  Paguma larvata angiotensin-converting enzyme 2 (ACE2) mRNA,
+            complete cds.
+ACCESSION   AY881174
+VERSION     AY881174.1
+KEYWORDS    .
+SOURCE      Paguma larvata (masked palm civet)
+  ORGANISM  Paguma larvata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Feliformia;
+            Viverridae; Paradoxurinae; Paguma.
+REFERENCE   1  (bases 1 to 2418)
+  AUTHORS   Guan,Y., Zheng,B.J., He,Y.Q., Liu,X.L., Zhuang,Z.X., Cheung,C.L.,
+            Luo,S.W., Li,P.H., Zhang,L.J., Guan,Y.J., Butt,K.M., Wong,K.L.,
+            Chan,K.W., Lim,W., Shortridge,K.F., Yuen,K.Y., Peiris,J.S. and
+            Poon,L.L.
+  TITLE     Isolation and characterization of viruses related to the SARS
+            coronavirus from animals in southern China
+  JOURNAL   Science 302 (5643), 276-278 (2003)
+   PUBMED   12958366
+REFERENCE   2  (bases 1 to 2418)
+  AUTHORS   Li,W., Moore,M.J., Vasilieva,N., Sui,J., Wong,S.K., Berne,M.A.,
+            Somasundaran,M., Sullivan,J.L., Luzuriaga,K., Greenough,T.C.,
+            Choe,H. and Farzan,M.
+  TITLE     Angiotensin-converting enzyme 2 is a functional receptor for the
+            SARS coronavirus
+  JOURNAL   Nature 426 (6965), 450-454 (2003)
+   PUBMED   14647384
+REFERENCE   3  (bases 1 to 2418)
+  AUTHORS   Li,W., Zhang,C., Sui,J., Kuhn,J.H., Moore,M.J., Luo,S., Wong,S.K.,
+            Huang,I.C., Xu,K., Vasilieva,N., Murakami,A., He,Y., Marasco,W.A.,
+            Guan,Y., Choe,H. and Farzan,M.
+  TITLE     Receptor and viral determinants of SARS-coronavirus adaptation to
+            human ACE2
+  JOURNAL   EMBO J 24 (8), 1634-1643 (2005)
+   PUBMED   15791205
+REFERENCE   4  (bases 1 to 2418)
+  AUTHORS   Li,W., Zhang,C., Sui,J., Kuhn,J.H., Moore,M.J., Luo,S., Wong,S.-K.,
+            Huang,I.-C., Xu,K., Vasilieva,N., Murakami,N., He,Y., Marasco,W.A.,
+            Guan,Y., Choe,H. and Farzan,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JAN-2005) Tumor Virology, New England Primate Center,
+            1 Pine Hill Drive, Southborough, MA 01772, USA
+FEATURES             Location/Qualifiers
+     source          1..2418
+                     /organism="Paguma larvata"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9675"
+     gene            1..2418
+                     /gene="ACE2"
+                     /gene_synonym="ACEH"
+     CDS             1..2418
+                     /gene="ACE2"
+                     /gene_synonym="ACEH"
+                     /EC_number="3.4.15.1"
+                     /note="peptidyl-dipeptidase A; catalyzes cleavage of
+                     angiotensin I into angiotensin 1-9; putative
+                     cardiovascular and renal regulator; functional receptor
+                     for SARS-CoV"
+                     /codon_start=1
+                     /product="angiotensin-converting enzyme 2"
+                     /protein_id="AAX63775.1"
+                     /translation="MSGSFWLLLSFAALTAAQSTTEELAKTFLETFNYEAQELSYQSS
+                     VASWNYNTNITDENAKNMNEAGAKWSAYYEEQSKLAQTYPLAEIQDAKIKRQLQALQQ
+                     SGSSVLSADKSQRLNTILNAMSTIYSTGKACNPNNPQECLLLEPGLDNIMENSKDYNE
+                     RLWAWEGWRAEVGKQLRPLYEEYVALKNEMARANNYEDYGDYWRGDYEEEWTGGYNYS
+                     RNQLIQDVEDTFEQIKPLYQHLHAYVRAKLMDTYPSRISRTGCLPAHLLGDMWGRFWT
+                     NLYPLTVPFGQKPNIDVTDAMVNQNWDARRIFKEAEKFFVSVGLPNMTQGFWENSMLT
+                     EPGDGRKVVCHPTAWDLGKGDFRIKMCTKVTMDDFLTAHHEMGHIQYDMAYAAQPFLL
+                     RNGANEGFHEAVGEIMSLSAATPNHLKTIGLLSPAFSEDNETEINFLLKQALTIVGTL
+                     PFTYMLEKWRWMVFKGAIPKEQWMQKWWEMKRNIVGVVEPVPHDETYCDPASLFHVAN
+                     DYSFIRYYTRTIYQFQFQEALCQIAKHEGPLHKCDISNSTEAGKKLLEMLSLGRSEPW
+                     TLALERVVGAKNMNVTPLLNYFEPLFTWLKEQNRNSFVGWDTDWRPYSDQSIKVRISL
+                     KSALGEKAYEWNDNEMYLFRSSIAYAMREYFSKVKNQTIPFVEDNVWVSDLKPRISFN
+                     FFVTFSNNVSDVIPRSEVEDAIRMSRSRINDAFRLDDNSLEFLGIEPTLSPPYRPPVT
+                     IWLIVFGVVMGAIVVGIVLLIVSGIRNRRKNDQAGSEENPYASVDLNKGENNPGFQHA
+                     DDVQTSF"
+ORIGIN      
+        1 atgtcaggct ctttctggct ccttctcagc tttgctgctt taactgctgc tcaatccacc
+       61 actgaagaac tggccaagac gtttttggag acgtttaact atgaagccca agagctgtct
+      121 tatcaaagtt cagttgcttc ctggaattat aacaccaata tcacggacga gaatgccaaa
+      181 aatatgaatg aggccggggc caaatggtct gcctattatg aagaacagtc caagcttgcc
+      241 caaacttacc cactagcaga aattcaggat gccaagatca agcgtcaact gcaggccctt
+      301 cagcagagtg gatcatcagt gctctcagca gacaagagcc aacgattgaa cacaatctta
+      361 aatgcaatga gcacaatcta cagtactgga aaagcttgta acccaaataa tccacaggag
+      421 tgcttattac ttgaaccagg cttggataac ataatggaaa acagcaaaga ctacaatgag
+      481 aggctctggg cttgggaagg ctggagggct gaggtcggca agcagctgag gccgttgtat
+      541 gaagagtatg tggccctgaa aaatgagatg gcaagagcaa acaattatga ggactatggg
+      601 gattattgga gaggagatta tgaagaggag tggacgggtg gctataacta tagccgcaac
+      661 caattgatcc aagatgtgga agataccttc gaacagatta agccattgta ccaacatctt
+      721 catgcttatg tgagggcaaa gttgatggac acctatcctt cccggatcag ccgaactgga
+      781 tgcctccctg cccatttgct tggcgatatg tggggtcgat tttggacaaa cctgtaccct
+      841 ttgacagtcc cctttggaca gaaaccaaac atagatgtta ctgatgcaat ggtgaaccag
+      901 aactgggatg caaggaggat tttcaaggag gctgagaaat tctttgtgtc tgttggcctt
+      961 cccaacatga cgcaaggatt ctgggaaaac tccatgctaa ctgagccagg cgacggccgg
+     1021 aaagtggtct gccaccccac agcttgggac ctggggaaag gcgacttcag gatcaagatg
+     1081 tgcacaaagg tgacgatgga tgacttcctg acggcccatc atgagatggg acacatccag
+     1141 tatgacatgg cctatgccgc gcaacccttc ctgctaagaa atggagctaa cgaggggttc
+     1201 catgaagccg ttggggagat catgtcactt tcggcagcta cacccaacca tttgaaaacc
+     1261 attggtcttc tgtcacctgc tttctctgaa gacaatgaaa cagaaataaa cttcctactc
+     1321 aaacaagcac ttacaattgt cggaacgcta ccgtttacct acatgttgga aaagtggcgg
+     1381 tggatggtct ttaagggtgc gattcccaag gagcagtgga tgcagaagtg gtgggagatg
+     1441 aagcgaaaca tagtcggggt ggtggagcct gtgccccatg atgaaacata ctgtgaccct
+     1501 gcatctctgt tccatgttgc caacgattac tcattcatca gatactacac gaggaccatt
+     1561 tatcaattcc agtttcaaga agccctctgt caaatagcta aacacgaagg ccccctgcac
+     1621 aaatgtgata tctcaaattc cactgaagct gggaagaagc tgctcgaaat gctgagcctt
+     1681 ggaagatcag agccctggac cttggcactg gaacgtgttg taggagcaaa gaatatgaac
+     1741 gtaacaccac tgctcaacta ctttgagccc ttgtttacct ggctgaaaga gcagaacagg
+     1801 aattctttcg tgggatggga cactgactgg cgtccatatt ctgaccaaag catcaaagtg
+     1861 aggatcagcc taaaatcagc tcttggagaa aaagcatatg aatggaatga caatgaaatg
+     1921 tacttgttcc ggtcatccat cgcctacgcc atgagagaat atttttccaa agtcaaaaac
+     1981 cagacgattc cttttgtgga ggacaacgtg tgggtgagcg atttgaaacc aaggatctcc
+     2041 ttcaacttct ttgtcacttt ttctaacaat gtgtccgacg tcattccgag aagcgaggtc
+     2101 gaagacgcca tcaggatgtc ccggagccgt atcaatgacg ctttccgcct ggatgacaac
+     2161 agcctggagt ttctgggtat tgagccaaca ctgtcacccc cttaccggcc acctgtcacc
+     2221 atatggctga ttgtttttgg ggtcgtgatg ggcgcgatag tggttggtat tgtcctgctc
+     2281 atcgtctccg ggatcagaaa tcgaaggaag aacgatcaag caggaagtga agaaaatcct
+     2341 tatgcctctg tggacttgaa taaaggagaa aataatccag gattccaaca tgctgatgac
+     2401 gttcagactt cattttag
+//
+
